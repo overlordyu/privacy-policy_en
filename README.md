@@ -37,7 +37,7 @@ To ensure a smooth product experience, you may receive services from third parti
 ### 1.2 How We Collect and Use Your Personal Information
 
 　　RandomLife App does not collect and use any personal or sensitive information about any user. **Data related to "Lucky Numbers", "Personal Linked Numbers", "Digital Cards", "History", etc. within the App Data related to functions such as "Lucky Numbers", "Personal Linked Numbers", "Digital Cards", "History", etc. are stored in the user's device local memory**. The Application will not provide, sell, rent, share or trade your personal information to any unrelated third party, or such third party and the Application (including the Application's affiliates) individually or jointly provide services to you, and after the end of such services, it will be prohibited from accessing all such data including those it previously had access to.
-**The Application also does not permit any third party to collect, edit, sell or distribute your personal information by any means without compensation. Any user of the Application platform who engages in any of the above activities, once discovered, the Application has the right to immediately terminate the service agreement with that user. **
+**The Application also does not permit any third party to collect, edit, sell or distribute your personal information by any means without compensation. Any user of the Application platform who engages in any of the above activities, once discovered, the Application has the right to immediately terminate the service agreement with that user.**
 
 ### 1.3 Providing security for you
 
