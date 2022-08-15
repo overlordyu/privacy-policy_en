@@ -60,7 +60,6 @@ To ensure a smooth product experience, you may receive services from third parti
 - [x] (2) Safeguard the safety of users and the use of the service.
 
 ### 2.2 How we protect information
-　　
 > We will take all reasonable and feasible measures to ensure that no irrelevant personal information is collected. All user-generated content and information of the App will be stored in the local memory of the user's device. The App will not provide, sell, rent, share or trade your personally generated content or information to any unrelated third party.
 
 ## 3. How we share information
