@@ -36,7 +36,7 @@ To ensure a smooth product experience, you may receive services from third parti
 
 ### 1.2 How We Collect and Use Your Personal Information
 
-　　RandomLife App does not collect and use any personal or sensitive information about any user. ** Data related to "Lucky Numbers", "Personal Linked Numbers", "Digital Cards", "History", etc. within the App Data related to functions such as "Lucky Numbers", "Personal Linked Numbers", "Digital Cards", "History", etc. are stored in the user's device local memory**. The Application will not provide, sell, rent, share or trade your personal information to any unrelated third party, or such third party and the Application (including the Application's affiliates) individually or jointly provide services to you, and after the end of such services, it will be prohibited from accessing all such data including those it previously had access to.
+　　RandomLife App does not collect and use any personal or sensitive information about any user. **Data related to "Lucky Numbers", "Personal Linked Numbers", "Digital Cards", "History", etc. within the App Data related to functions such as "Lucky Numbers", "Personal Linked Numbers", "Digital Cards", "History", etc. are stored in the user's device local memory**. The Application will not provide, sell, rent, share or trade your personal information to any unrelated third party, or such third party and the Application (including the Application's affiliates) individually or jointly provide services to you, and after the end of such services, it will be prohibited from accessing all such data including those it previously had access to.
 **The Application also does not permit any third party to collect, edit, sell or distribute your personal information by any means without compensation. Any user of the Application platform who engages in any of the above activities, once discovered, the Application has the right to immediately terminate the service agreement with that user. **
 
 ### 1.3 Providing security for you
@@ -64,7 +64,7 @@ To ensure a smooth product experience, you may receive services from third parti
 
 ## 3. How we share information
 
-　　** We will not share or transfer personally identifiable information to third parties unless we have your consent. ** Under certain conditions, we will share necessary personal information with third parties, and we will require the third parties to take protective measures for your personal information and strictly comply with relevant laws, regulations and regulatory requirements. If the third party wants to change the purpose of personal information processing, will again seek your authorized consent.
+　　**We will not share or transfer personally identifiable information to third parties unless we have your consent.** Under certain conditions, we will share necessary personal information with third parties, and we will require the third parties to take protective measures for your personal information and strictly comply with relevant laws, regulations and regulatory requirements. If the third party wants to change the purpose of personal information processing, will again seek your authorized consent.
 
 　　We use a third party (Shanghai Youkun Information Technology Co., Ltd., hereinafter referred to as "MobTech") `MobTech ShareSDK` service to provide you with social sharing, third party login social sharing, third party login functions. In order to implement this function smoothly, you need to authorize MobTechSDK to provide the corresponding service; after your authorization, MobTech will read the local application list to assist the third party MobTechSDK to collect the local app installation list to realize the social sharing function of the app, and the local app installation list information will be sent back to http://api.fd. mob.com will be used to implement the sharing function. For more details about the types of information collected by MobTech, its usage, rules for personal information protection and opt-out mechanism, please refer to the terms of Privacy Policy (www.mob.com/about/policy) on MobTech's official website (www.mob.com).
 
@@ -95,4 +95,4 @@ We will protect the personal information of minors in accordance with relevant n
 
 　　If you have any questions, comments or suggestions about this Privacy Policy or other related matters, please contact us by email at **18767529430@163.com**.
 
-　　**The right to interpret and amend this agreement belongs to Randomlife App, and we have the right to interpret and amend it to the extent permitted by law. **
+　　**The right to interpret and amend this agreement belongs to Randomlife App, and we have the right to interpret and amend it to the extent permitted by law.**
