@@ -23,8 +23,9 @@ To ensure a smooth product experience, you may receive services from third parti
 - [ ] 3. **How we share information**
 - [ ] 4. **Statement of Liability to Third Parties**
 - [ ] 5. **Terms of Use for Minors**
-- [ ] 6. **Amendments to the Privacy Policy and Notices**
-- [ ] 7. **Contact Us**
+- [ ] 6. **Purchase Membership**
+- [ ] 7. **Amendments to the Privacy Policy and Notices**
+- [ ] 8. **Contact Us**
 
 ## 1. How we collect and use your personal information
 
@@ -82,7 +83,33 @@ Minors should read and agree to this Privacy Policy under the guidance of their 
 We will protect the personal information of minors in accordance with relevant national laws and regulations, and will only collect, use, store, share or disclose the personal information of minors as permitted by law, as expressly agreed by their parents or other guardians, or as necessary to protect them.
 ```
 
-## 6. Amendments and Notices
+## 6.  Purchase Membership
+
+> By purchasing a membership, you can use the following features without any restrictions.
+- [x] (1). you can use all 4 styles of "Random Number Generator", with exquisite graphics and beautiful animations, switch styles at will to avoid aesthetic fatigue and make it easier for you to select numbers.
+- [x] (2). you can get up to 5 sets of random numbers at a time, more numbers for you to pick.
+- [x] (3). built-in algorithm can help you get "Higher Level Numbers" (for reference only), adding confidence to your success.
+- [x] (4). a powerful "Number Analyzer" to help you analyze any number so you can decide if you need it.
+- [x] (5). you can use the "Double Number Machines" at will, with more realistic simulation and richer functions, to get a set of numbers you like better anytime and anywhere.
+- [x] (6). more advanced features will be added for members in subsequent versions, so stay tuned!
+
+> You can choose from four different subscription services.
+- [x] (1). Monthly auto-renewing subscription : $0.49 (USD)
+- [x] (2). Yearly auto-renewing subscription : $6.99 (USD)
+- [x] (3). Monthly non-renewing subscription : $0.99 (USD)
+- [x] (4). Monthly non-renewing subscription : $8.99 (USD)
+> In addition, you also purchase:
+- [x] (1). Life Member：$11.99（USD)
+- [x] (2). Custom Lottery：$5.99（USD)
+
+> **Notice**
+- [x] (1). Payment will be charged to iTunes Account at confirmation of purchase
+- [x] (2). Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- [x] (3). Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- [x] (4). Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- [x] (5). Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+## 7. Amendments and Notices
 
 　　In order to bring you a better experience with our products and services, we are continuously improving our technology and may subsequently introduce new or optimized features from time to time, which may require the collection and use of new personal information or changes in the purpose or manner of use of personal information. In this regard, we may revise the terms of this Privacy Policy from time to time and prominently indicate this in the form of a pop-up window, and provide you with the means to consent to its collection and use with your express consent. A pop-up reminder will be provided for the following material changes.
 
@@ -91,7 +118,7 @@ We will protect the personal information of minors in accordance with relevant n
 - [x] (3). A significant change in your rights to participate in the processing of personal information and the manner in which you exercise them.
 - [x] (4). A personal information security impact assessment report indicates a high risk.
 
-## 7. Contact Us
+## 8. Contact Us
 
 　　If you have any questions, comments or suggestions about this Privacy Policy or other related matters, please contact us by email at **18767529430@163.com**.
 
